@@ -1,4 +1,4 @@
-
-Este firmware funciona para microcontroladores ESP32, utilizando a biblioteca mcpwm versão de framework 5.1.
-Neste exemplo básico, em main.c estão os comandos iniciais para fazer um motor girar.
+# EXAMPLE USING MCPWM - ESP IDF 5.1
+EXAMPLE FOR THE ESP32, WITH ESP IDF AND FRAMEWORK 5.1 USING MCPWM.
+IN THIS BASIC EXAMPLE, IN MAIN.C ARE THE INIT COMMANDS FOR YOU MAKE A MOTOR TO ROTATE.
 
